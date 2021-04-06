@@ -16,4 +16,7 @@ This is a layer of 3 neurons developed using numpy. Numpy makes it easier to cal
 Creation and modification of batches
 
 # _p5.py_ -->
-Hidden layers and activation functions including the use of sigmoid function
+Hidden layers and activation functions including the use of rectified linear function
+
+# _p6.py_ -->
+Using the softmax activation function
