@@ -20,3 +20,5 @@ Hidden layers and activation functions including the use of rectified linear fun
 
 # _p6.py_ -->
 Using the softmax activation function
+p6-1.py => Understand the internal working of a softmax function
+p6-2.py => Implement softmax function
