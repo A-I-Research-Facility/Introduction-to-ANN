@@ -19,6 +19,6 @@ Creation and modification of batches
 Hidden layers and activation functions including the use of rectified linear function
 
 # _p6.py_ -->
-Using the softmax activation function
-p6-1.py => Understand the internal working of a softmax function
+Using the softmax activation function \n
+p6-1.py => Understand the internal working of a softmax function \n
 p6-2.py => Implement softmax function
