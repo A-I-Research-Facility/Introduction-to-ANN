@@ -14,3 +14,6 @@ This is a layer of 3 neurons developed using numpy. Numpy makes it easier to cal
 
 # _p4.py_ -->
 Creation and modification of batches
+
+# _p5.py_ -->
+Hidden layers and activation functions including the use of sigmoid function
