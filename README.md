@@ -12,5 +12,5 @@ This is a layer consisting of 3 neurons. Each neuron takes 4 inputs and produces
 # p3.py -->
 This is a layer of 3 neurons developed using numpy. Numpy makes it easier to calculate dot product of matrices.
 
-# *p4.py -->
+# *p4.py* -->
 Creation and modification of batches
