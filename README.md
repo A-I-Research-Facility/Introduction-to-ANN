@@ -6,11 +6,11 @@ This repository goes from coding a simple neuron without using data manipulation
 # _p1.py_ -->
 This is a simple neuron which takes 3 inputs, has 3 respective weights, and 1 bias. It produces a single output.
 
-# p2.py -->
+# _p2.py_ -->
 This is a layer consisting of 3 neurons. Each neuron takes 4 inputs and produces 1 output. So, we have total of 4 inputs, but as output, we have a list of 3 results because of 3 neurons.
 
-# p3.py -->
+# _p3.py_ -->
 This is a layer of 3 neurons developed using numpy. Numpy makes it easier to calculate dot product of matrices.
 
-# *p4.py* -->
+# _p4.py_ -->
 Creation and modification of batches
