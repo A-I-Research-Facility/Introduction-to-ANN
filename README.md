@@ -1,7 +1,7 @@
 # ANN_declassified
 Artificial neural network creation in raw python from scratch
 
-
+***
 For any query, please reach us at cserveairf@gmail.com or create a pull request regarding your issue.
 ***
 
