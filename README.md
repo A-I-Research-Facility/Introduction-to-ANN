@@ -3,7 +3,7 @@ Artificial neural network creation in raw python from scratch
 
 ***
 Requirements :  
-   Python3;  
+   Python3  
    pip  
    numpy  
    nnfs library (pip installation)  
