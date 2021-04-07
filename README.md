@@ -3,11 +3,12 @@ Artificial neural network creation in raw python from scratch
 
 ***
 Requirements :  
-   Python3  
-   pip  
-   numpy  
-   nnfs library (pip installation)  
-   understanding of matrix, vectors, and functions in mathematics.
+
+   1. Python3  
+   2. pip  
+   3. numpy  
+   4. nnfs library (pip installation)  
+   5. understanding of matrix, vectors, and functions in mathematics.
 ***
 For any query, please reach us at cserveairf@gmail.com or create a pull request regarding your issue.
 ***
