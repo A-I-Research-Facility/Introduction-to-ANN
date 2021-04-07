@@ -1,7 +1,7 @@
 # ANN_declassified
 Artificial neural network creation in raw python from scratch
 
------------
+
 For any query, please reach us at cserveairf@gmail.com or create a pull request regarding your issue.
 -----------
 
@@ -14,19 +14,15 @@ This is a simple neuron which takes 3 inputs, has 3 respective weights, and 1 bi
 This is a layer consisting of 3 neurons. Each neuron takes 4 inputs and produces 1 output. So, we have total of 4 inputs, but as output, we have a list of 3 results because of 3 neurons.
 
 ## p3.py -->
---------
 This is a layer of 3 neurons developed using numpy. Numpy makes it easier to calculate dot product of matrices.
 
 ## p4.py -->
---------
 Creation and modification of batches
 
 ## p5.py -->
---------
 Hidden layers and activation functions including the use of rectified linear function
 
 ## p6.py -->
---------
 Using the softmax activation function 
 
 **p6-1.py** => Understand the internal working of a softmax function 
