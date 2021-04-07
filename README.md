@@ -3,7 +3,7 @@ Artificial neural network creation in raw python from scratch
 
 
 For any query, please reach us at cserveairf@gmail.com or create a pull request regarding your issue.
------------
+***
 
 This repository goes from coding a simple neuron without using any data manipulation tools, to advanced coding of neural networks involving batches, layers, etc. This repo is a concise form of https://github.com/Sentdex/NNfSiX which is an overall guide on how to create a neural network from scratch in almost any language by SentDex. Be sure to check it out.
 
