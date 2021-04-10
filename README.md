@@ -1,8 +1,9 @@
 # ANN_declassified
 Artificial neural network creation in raw python from scratch<br>
 ***
-<br>
+
 Requirements :  
+<br>
 <br>
 <br>
 <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/72/python.png">
