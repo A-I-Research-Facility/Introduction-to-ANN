@@ -1,6 +1,5 @@
 # ANN_declassified
-Artificial neural network creation in raw python from scratch
-
+Artificial neural network creation in raw python from scratch<br>
 ***
 <br>
 Requirements :  
