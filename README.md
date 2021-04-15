@@ -8,7 +8,7 @@ Artificial neural network creation in raw python from scratch<br>
 <br>
 <br>
 <br>
-Installing adadnnfs -<br>
+Installing nnfs -<br>
 <br>  
     
       python3 -m pip install nnfs
