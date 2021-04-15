@@ -1,7 +1,7 @@
 # ANN_declassified
 Artificial neural network creation in raw python from scratch<br>
 ***
-
+adad
 ### Requirements :
 <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/72/python.png">
 <img align="left" alt="numpy" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/640px-NumPy_logo_2020.svg.png">
