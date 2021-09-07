@@ -1,4 +1,4 @@
-# ANN_declassified
+# Artificial Neural Networks
 Artificial neural network creation in raw python from scratch<br>
 ***
 
