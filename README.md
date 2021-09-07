@@ -1,6 +1,4 @@
 # Artificial Neural Networks
-Artificial neural network creation in raw python from scratch<br>
-***
 
 ### Requirements :
 <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/72/python.png">
