@@ -24,28 +24,23 @@ This repo is a concise form of https://github.com/Sentdex/NNfSiX which is an ove
 * This is a simple neuron which takes 3 inputs, has 3 respective weights, and 1 bias. 
 * It produces a single output.
 <br>
-<br>
 
 ### 🟧 p2.py
 * This is a layer consisting of 3 neurons. Each neuron takes 4 inputs and produces 1 output. 
 * So, we have total of 4 inputs, but as output, we have a list of 3 results because of 3 neurons.
-<br>
 <br>
 
 ### 🟧 p3.py
 * This is a layer of 3 neurons developed using numpy. 
 * Numpy makes it easier to calculate dot product of matrices.
 <br>
-<br>
 
 ### 🟧 p4.py
 * Creation and modification of batches
 <br>
-<br>
 
 ### 🟧 p5.py
 * Hidden layers and activation functions including the use of rectified linear function
-<br>
 <br>
 
 ### 🟧 p6.py
