@@ -12,7 +12,8 @@ Installing nnfs -<br>
 <br>  
     
       python3 -m pip install nnfs
-      
+
+***
 This repository goes from coding a simple neuron without using any data manipulation tools, to advanced coding of neural networks involving batches, layers, etc.
 
 This repo is a concise form of https://github.com/Sentdex/NNfSiX which is an overall guide on how to create a neural network from scratch in almost any language by SentDex. Be sure to check it out.
