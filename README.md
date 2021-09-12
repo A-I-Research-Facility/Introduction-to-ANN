@@ -1,5 +1,7 @@
 # Artificial Neural Networks
 
+For any query, please reach us at cserveairf@gmail.com or create a discussion.
+
 ### Requirements :
 <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/72/python.png">
 <img align="left" alt="numpy" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/640px-NumPy_logo_2020.svg.png">
@@ -12,7 +14,7 @@ Installing nnfs -<br>
       python3 -m pip install nnfs
       
 ***
-For any query, please reach us at cserveairf@gmail.com or create a discussion.
+
 
 ***
 This repository goes from coding a simple neuron without using any data manipulation tools, to advanced coding of neural networks involving batches, layers, etc. 
