@@ -16,7 +16,7 @@ Installing nnfs -<br>
 ***
 This repository goes from coding a simple neuron without using any data manipulation tools, to advanced coding of neural networks involving batches, layers, etc.
 
-This repo is a concise form of https://github.com/Sentdex/NNfSiX which is an overall guide on how to create a neural network from scratch in almost any language. Be sure to check it out.
+This repo is a concise form of [this repo](https://github.com/Sentdex/NNfSiX), which is an overall guide on how to create a neural network from scratch in almost any language. Check it out to find out more.
 <br>
 <br>
 
